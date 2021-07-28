@@ -1,0 +1,2 @@
+L:\Profiles\Lloyd\Desktop\C#\Project_CSharp_and_MySQL-master\Project_CSharp_and_MySQL\obj\Debug\Project_CSharp_and_MySQL.csproj.AssemblyReference.cache
+L:\Profiles\Lloyd\Desktop\C#\Project_CSharp_and_MySQL-master\Project_CSharp_and_MySQL\obj\Debug\Project_CSharp_and_MySQL.csproj.CoreCompileInputs.cache
